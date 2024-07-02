@@ -58,4 +58,9 @@ const Index = () => {
         </div>
         <p className="mt-4">Contact us: info@ufohub.com</p>
       </footer>
+    </div>
+  );
+};
+
+export default Index;
     
